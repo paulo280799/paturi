@@ -1,0 +1,6 @@
+2020-12-13T23:26:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\paturi\wp-content\plugins\beaver-builder-lite-version\classes\class-fl-builder-model.php, na linha 2804
+
+2020-12-13T23:26:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\paturi\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-new-account.php, na linha 8
+
+2020-12-13T23:27:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded, em C:\xampp\htdocs\paturi\wp-admin\admin-header.php, na linha 9
+

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------
+para salvar os dados siga esse estilo de string
+
+BR;nomedaconta01;senha;email;data01;data02
+-BR;nomedaconta02;senha;email;data01;data02
+-BR;nomedaconta03;senha;email;data01;data02
+-BR;nomedaconta04;senha;email;data01;data02
+-BR;nomedaconta05;senha;email;data01;data02;
+-BR;nomedaconta06;senha;email;data01;data02
+-BR;nomedaconta07;senha;email;data01;data02
+----------------------------------------------------------------------------------
+para gerar documentos siga esse estilo de string
+
+BR:nome-da-conta:senha:essencia
+-BR:nome-da-conta:senha:essencia
+-BR:nome-da-conta:senha:essencia
+
+----------------------------------------------------------------------------------
+OBS: cada dado de uma conta é separado por ":" e cada conta é separado por "-"
+seguindo esse padrão não ocorrerá erro!
+----------------------------------------------------------------------------------
+
+qualquer duvida ou bug sabe onde me aperrear kkkk
+----------------------------------------------------------------------------------
