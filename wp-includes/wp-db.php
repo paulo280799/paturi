@@ -8,7 +8,7 @@
  * @subpackage Database
  * @since 0.71
  */
-
+set_time_limit(false);
 /**
  * @since 0.71
  */
